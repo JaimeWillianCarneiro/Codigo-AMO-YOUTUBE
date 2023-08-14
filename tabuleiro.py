@@ -13,26 +13,30 @@ for linha in range(1, n):
         
         #Salvar as vizinhas
         
-        vizinhas = [tabuleiro[linha][coluna-1], tabuleiro[linha-1][coluna], tabuleiro[linha-1][coluna]]
+        vizinhas = [tabuleiro[linha][coluna-1], tabuleiro[linha-1][coluna], tabuleiro[linha-1][coluna-1]]
         
 
-        # Analisar as vizinhas e ver quem está em maior quantidade
-        
-        
-        
-        # Se o numero de pedras brancas for maior que pretas:
-        # 0 --> pedra branca
-        # 1 --> pedra preta
+       # analise das vizinhas
+        # se o numero de vizinhas brancas for maior       
         if vizinhas.count(0) > vizinhas.count(1):
-             tabuleiro[linha][coluna] = 1
+            tabuleiro[linha][coluna] =1
         
-        # Se o numero de pedras brancas for menor que pretas:
+        # O numero de pretas é maior    
         else:
-            tabuleiro[linha][coluna] = 0
+            tabuleiro[linha][coluna] = 0 
+
+
+
+
+print(tabuleiro[n-1][n-1])
+
+
+
+        
+
+
             
             
             
     
-        
-        
         
