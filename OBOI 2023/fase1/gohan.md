@@ -41,5 +41,4 @@ As próximas $`N`$ linhas contém 2 inteiros: $`P_i`$ e $`H_i`$, a i-ésima nota
 
 
 
-|
-| git diff | Show file differences that haven't been staged |
+
