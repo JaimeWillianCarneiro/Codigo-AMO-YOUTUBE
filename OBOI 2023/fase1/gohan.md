@@ -18,21 +18,73 @@ As próximas $`N`$ linhas contém 2 inteiros: $`P_i`$ e $`H_i`$, a i-ésima nota
 
 
 
-## Exemplo 1 
-### Entrada
-```
+
+
+<details>
+
+<summary>Casos de teste</summary>
+
+### Exemplo 1 
+
+
+**Entrada**
+~~~python
 4
 1 2
 2 3
 3 4
 4 5
-```
+~~~
 
-### Saída 
-```
+
+**Saída** 
+~~~python
 :0 <- Gohan e Feijao
-```
+~~~
 
+
+### Exemplo 2 
+
+**Entrada**
+~~~python
+2
+1 1
+1 1
+~~~
+
+
+**Saída** 
+~~~python
+Impasse
+~~~
+
+### Exemplo 3
+
+**Entrada**
+~~~python
+2
+1 1
+5 1
+~~~
+
+
+**Saída** 
+~~~python
+:0 <-X- Gohan e Feijao
+~~~
+
+
+
+</details>
+<details>
+
+<summary>Solução</summary>
+
+~~~python
+print("teste")
+~~~
+
+</details>
 
 
 
