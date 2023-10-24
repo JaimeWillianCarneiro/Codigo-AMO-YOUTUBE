@@ -16,26 +16,11 @@ A terceira linha contém um inteiro **F**, o valor da conta da Farmácia. A quar
 Seu programa deve produzir uma única linha, contendo um único inteiro, o maior número de contas que Vô João consegue pagar.
 
 ## Restrições
-0 ≤ 2000
-0≤V≤2000
-1
-≤
-�
-≤
-1000
-1≤A≤1000
-1
-≤
-�
-≤
-1000
-1≤F≤1000
-1
-≤
-�
-≤
-1000
-1≤P≤1000
+
+* $` 0 \leq V \leq 2000`$
+* $` 1 \leq A \leq 1000`$
+* $` 1 \leq F \leq 1000 `$
+* $` 1 \leq P \leq 1000 `$
 
 <details>
 
