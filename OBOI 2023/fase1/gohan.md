@@ -78,8 +78,9 @@ Impasse
 </details>
 <details>
 
-<summary>Solução</summary>
+<summary>Solução em Python</summary>
 
+#### por [Jaime Willian Carneiro da Silva ](https://github.com/JaimeWillianCarneiro/)
 ~~~python
 n = int(input())
 
