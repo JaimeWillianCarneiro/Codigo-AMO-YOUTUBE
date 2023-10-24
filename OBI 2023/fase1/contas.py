@@ -1,3 +1,8 @@
+"""
+Contas a Pagar OBI 2023 Fase 1, Nível 2 e Senior, Modalidade Programação
+
+
+"""
 v = int(input())
 a = int(input())
 f = int(input())
