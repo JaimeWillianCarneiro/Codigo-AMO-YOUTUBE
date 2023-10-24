@@ -13,21 +13,7 @@ As próximas $`N`$ linhas contém 2 inteiros: $`P_i`$ e $`H_i`$, a i-ésima nota
 
  ## Restrições
 
- 1≤N≤100
-0
-≤
-�
-�
-,
-�
-�
-≤
-10
-¹⁵
-0≤P 
-i
-​
- ,H 
-i
-​
- ≤10¹⁵
+*  $`1 \leq N \leq 100`$
+*  $`0 \leq P_i, H_i \leq 10^{15}`$
+
+
