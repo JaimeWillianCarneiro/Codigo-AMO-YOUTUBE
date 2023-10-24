@@ -1,4 +1,4 @@
-# Contas a Pagar :computer:
+# Contas a Pagar :money_with_wings:
 
 Vô João está aposentado, tem boa saúde, mas a vida não está fácil. Todo mês é um sufoco para conseguir pagar as contas! Ainda bem que ele é muito amigo dos donos das lojas do bairro, e eles permitem que ele fique devendo.
 
@@ -28,10 +28,10 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o maior
 
 <summary>Casos de teste</summary>
 
-## Solução em python
-#### por [Jaime Willian Carneiro da Silva ](https://github.com/JaimeWillianCarneiro/)
+### Exemplo 1 
 
 
+**Entrada**
 ~~~python
 100
 30
@@ -40,7 +40,63 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o maior
 ~~~
 
 
+**Saída** 
+~~~python
+3
+~~~
+
+
+### Exemplo 2 
+
+**Entrada**
+~~~python
+50
+82
+99
+51
+~~~
+
+
+**Saída** 
+~~~python
+0
+~~~
+
+### Exemplo 3
+
+**Entrada**
+~~~python
+200
+180
+100
+120
+~~~
+
+
+**Saída** 
+~~~python
+1
+~~~
+
+
+### Exemplo 4 
+
+**Entrada**
+~~~python
+200
+100
+180
+90
+~~~
+
+
+**Saída** 
+~~~python
+2
+~~~
 </details>
+
+
 
 <details>
 
