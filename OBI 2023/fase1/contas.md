@@ -22,6 +22,26 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o maior
 * $` 1 \leq F \leq 1000 `$
 * $` 1 \leq P \leq 1000 `$
 
+
+
+<details>
+
+<summary>Casos de teste</summary>
+
+## Solução em python
+#### por [Jaime Willian Carneiro da Silva ](https://github.com/JaimeWillianCarneiro/)
+
+
+~~~python
+100
+30
+40
+30
+~~~
+
+
+</details>
+
 <details>
 
 <summary>Clique para observar a solução</summary>
