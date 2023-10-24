@@ -27,7 +27,7 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o maior
 <summary>Clique para observar a solução</summary>
 
 ## Solução em python
-#### por Jaime Willian Carneiro da Silva
+#### por [Jaime Willian Carneiro da Silva ](https://github.com)
 
 
 ~~~python
