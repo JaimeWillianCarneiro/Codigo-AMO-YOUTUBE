@@ -37,6 +37,14 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o maior
 1000
 1≤P≤1000
 
+<details>
+
+<summary>Clique para observar a solução</summary>
+
+## Solução em python
+#### por Jaime Willian Carneiro da Silva
+
+
 ~~~python
 
 v = int(input())
@@ -66,3 +74,6 @@ else:
 print(maiorNumero)
 
 ~~~
+
+
+</details>
