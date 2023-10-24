@@ -17,3 +17,29 @@ As próximas $`N`$ linhas contém 2 inteiros: $`P_i`$ e $`H_i`$, a i-ésima nota
 *  $`0 \leq P_i, H_i \leq 10^{15}`$
 
 
+
+## Exemplo 1 
+### Entrada
+```
+4
+1 2
+2 3
+3 4
+4 5
+```
+
+### Saída 
+```
+:0 <- Gohan e Feijao
+```
+
+
+
+
+
+
+
+
+
+|
+| git diff | Show file differences that haven't been staged |
