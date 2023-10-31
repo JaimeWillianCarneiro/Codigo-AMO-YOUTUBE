@@ -2,10 +2,9 @@
 
 Enzo e Lobo criaram um jogo chamado Matriz Maluca, o qual funciona da seguinte maneira:
 
-Em uma matriz $`n×m`$  preenchido com números inteiros, os jogadores realizam a seguinte jogada alternadamente: o jogador escolhe uma casa $`(i,j)`$ , soma todos os números que estão na mesma coluna e na mesma linha que  $`(i,j)`$ (dando um valor $`x`$), e transforma todos esses números em 0. Nessa jogada, ele ganha 
-x pontos, e passa o turno para o próximo jogador. Enzo começa.
+Em uma matriz $`n×m`$  preenchido com números inteiros, os jogadores realizam a seguinte jogada alternadamente: o jogador escolhe uma casa $`(i,j)`$ , soma todos os números que estão na mesma coluna e na mesma linha que  $`(i,j)`$ (dando um valor $`x`$), e transforma todos esses números em 0. Nessa jogada, ele ganha $`x`$pontos, e passa o turno para o próximo jogador. Enzo começa.
 
-Obs:  (i,j) representa a posição na 
+Obs:  $`(i,j)`$ representa a posição na 
 
 Veja o caso abaixo
 
