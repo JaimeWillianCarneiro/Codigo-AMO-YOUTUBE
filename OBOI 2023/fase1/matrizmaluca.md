@@ -14,6 +14,7 @@ Veja o caso abaixo
 Enzo começa jogando na casa  $`(2,2)`$, então, ele ganha  $`(7+6+2+3+2+5+3=28)`$ pontos nessa jogada, e o tabuleiro fica assim: (Veja que o valor de $`(i,j)`$ só é contado uma vez na soma).
 
 
+![**FIGURA2**](https://github.com/JaimeWillianCarneiro/Codigo-AMO-YOUTUBE/blob/main/images/imagem2_matriz_maluca.png)
 
 
 
