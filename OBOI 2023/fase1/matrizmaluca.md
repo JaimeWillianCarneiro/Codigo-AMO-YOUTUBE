@@ -36,6 +36,72 @@ Por último, temos $`P`$ linhas. na $`i`$-ésima dessas linhas, vamos ter 2 valo
 
 Imprima uma palavra, representando quem ganhou. Imprima "Enzo" se foi Enzo que ganhou, imprima "Lobo" se foi Lobo que ganhou, e imprima "Empate" se o jogo empatar.
 
+<details>
+
+<summary>Casos de teste</summary>
+
+### Exemplo 1 
+
+
+**Entrada**
+~~~python
+4 4 2
+5 2 7 6
+7 6 2 3
+6 5 1 9
+3 3 9 0
+2 3
+4 4
+~~~
+
+
+**Saída** 
+~~~python
+Enzo
+~~~
+
+
+### Exemplo 2 
+
+**Entrada**
+~~~python
+2 3 2
+1 1 2
+2 2 7
+1 2
+2 1
+~~~
+
+
+**Saída** 
+~~~python
+Lobo
+~~~
+
+### Exemplo 3
+
+**Entrada**
+~~~python
+4 4 4
+0 0 0 0
+0 0 0 0
+0 0 0 0 
+0 0 0 0
+1 1
+2 2
+3 3
+4 4
+~~~
+
+
+**Saída** 
+~~~python
+Empate
+~~~
+
+
+
+</details>
 
 
 
