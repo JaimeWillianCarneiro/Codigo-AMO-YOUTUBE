@@ -36,10 +36,6 @@ Por último, temos $`P`$ linhas. na $`i`$-ésima dessas linhas, vamos ter 2 valo
 
 Imprima uma palavra, representando quem ganhou. Imprima "Enzo" se foi Enzo que ganhou, imprima "Lobo" se foi Lobo que ganhou, e imprima "Empate" se o jogo empatar.
 
- ## Restrições
-
-*  $`1 \leq N \leq 100`$
-*  $`0 \leq P_i, H_i \leq 10^{15}`$
 
 
 
