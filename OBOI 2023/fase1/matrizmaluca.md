@@ -8,7 +8,7 @@ Obs:  $`(i,j)`$ representa a posição na
 
 Veja o caso abaixo
 
-Clique na imagem para acessar o Google.
+
 ![Alt ou título da imagem](https://github.com/JaimeWillianCarneiro/Codigo-AMO-YOUTUBE/blob/main/images/imagem1_matriz_maluca.png)
 
 ## Entrada
