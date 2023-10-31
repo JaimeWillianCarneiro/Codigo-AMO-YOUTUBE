@@ -9,8 +9,7 @@ Obs:  $`(i,j)`$ representa a posição na
 Veja o caso abaixo
 
 Clique na imagem para acessar o Google.
-[![Logo_Google_2013_Official svg](https://noic.com.br/wp-content/uploads/2023/08/Screenshot-from-2023-08-09-09-09-06.png](https://noic.com.br/wp-content/uploads/2023/08/Screenshot-from-2023-08-09-09-09-06.png)
-
+![Alt ou título da imagem](https://github.com/JaimeWillianCarneiro/Codigo-AMO-YOUTUBE/blob/main/images/imagem1_matriz_maluca.png)
 
 ## Entrada
 A primeira linha contém um inteiro $`N`$, a quantidade de notas.
