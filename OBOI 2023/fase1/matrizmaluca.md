@@ -17,10 +17,16 @@ Enzo começa jogando na casa  $`(2,2)`$, então, ele ganha  $`(7+6+2+3+2+5+3=28)
 ![**FIGURA2**](https://github.com/JaimeWillianCarneiro/Codigo-AMO-YOUTUBE/blob/main/images/imagem2_matriz_maluca.png)
 
 
+Então, Lobo joga na casa $`(1,4)`$ (canto superior direito) e ganha $`5+0+7+6+0+9+0=27`$ pontos. E assim o jogo continua.
+
+Mas Enzo e Lobo estão muito cansados de fazer tantas somas quando vão jogar esse jogo. Ainda assim, eles não conseguem parar de jogar, e por isso eles pediram a sua ajuda!
+
+Dado o tabuleiro no começo do jogo e as jogadas que eles fizeram, escreva um código que diga quem ganhou o jogo, ou seja, quem fez mais pontos.
 
 ## Entrada
-A primeira linha contém um inteiro $`N`$, a quantidade de notas.
-As próximas $`N`$ linhas contém 2 inteiros: $`P_i`$ e $`H_i`$, a i-ésima nota da Pedra e do Hassui, respectivamente.
+
+Na primeira linha, temos 3 inteiros, $`N,M, P (1 \leq N, M, P\leq 20)`$
+
 ​
  ## Saída 
 
